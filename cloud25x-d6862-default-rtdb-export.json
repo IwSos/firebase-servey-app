@@ -1,0 +1,42 @@
+{
+  "answers": {
+    "-OjLScIoGQaI39Zx-jQc": {
+      "-OjLTsCU5hf1IzFnbFbL": {
+        "createdAt": 1768829977,
+        "sender": "6hQIAsR2MmVD26mv0IwsTTRI7X63",
+        "text": "質問をしてください。"
+      }
+    },
+    "-OjLdlfVVIw2seFNOLgC": {
+      "-OjLeeSrLkM_nGh3A6Cu": {
+        "createdAt": 1768833066,
+        "sender": "6hQIAsR2MmVD26mv0IwsTTRI7X63",
+        "text": "まあ元気よただ寒いかな。体調には気を付けて!"
+      }
+    }
+  },
+  "protected": {
+    "users": {
+      "6hQIAsR2MmVD26mv0IwsTTRI7X63": {
+        "name": "ぱいそん",
+        "nickname": "ニックネーム"
+      }
+    }
+  },
+  "questions": {
+    "-OjLScIoGQaI39Zx-jQc": {
+      "createdAt": 1768829650,
+      "description": "",
+      "displayNo": 1,
+      "sender": "6hQIAsR2MmVD26mv0IwsTTRI7X63",
+      "title": ""
+    },
+    "-OjLdlfVVIw2seFNOLgC": {
+      "createdAt": 1768832834,
+      "description": "元気してますか",
+      "displayNo": 2,
+      "sender": "6hQIAsR2MmVD26mv0IwsTTRI7X63",
+      "title": ""
+    }
+  }
+}
